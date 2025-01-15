@@ -38,5 +38,4 @@ This project is built using **Java** and follows **Object-Oriented Programming (
 To get started, first clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yanchuiko/FantasyGame.git
-cd FantasyGame
+git clone https://github.com/yanchuiko/fantasy-game.git
